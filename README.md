@@ -1,4 +1,3 @@
-# database-system
 # ExcelDB - Excel 資料庫系統
 
 ## 專案簡介
